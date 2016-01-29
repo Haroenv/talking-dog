@@ -21,6 +21,7 @@ At this point, several options are possible
 * A little wire that's hand-controlling the fake beak
 * An rc-controller controlling a single servo rotating
 * An arduino with wifi-shield and a smartphone
+* chinese RC light switch (cheaper, but less reliable)
 
 ## License
 
